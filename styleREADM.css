@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: steelblue;
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+
+.nome_inicio{
+    color: white;
+}
+
+.cabecalho {
+    text-align: center;
+}
+
+.aluno{
+    text-align: center;
+}
+
+.container_pai {
+    display: flex;
+    justify-content: center;
+}
+
+.nome_aluno{
+    text-align: center;
+}

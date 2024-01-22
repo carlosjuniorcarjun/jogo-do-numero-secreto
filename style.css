@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
     color: white;
+    text-decoration: none;
 }
+
 
 body {
     background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
@@ -66,10 +68,6 @@ body::before {
 
 .container__texto {
     margin: 16px 0 16px 0;
-}
-
-.container__texto-azul {
-    color: #1875E8;
 }
 
 .container__input {
